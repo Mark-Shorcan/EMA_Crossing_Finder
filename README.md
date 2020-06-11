@@ -9,3 +9,7 @@ It takes about a min to find the ema4, ema8, ema26 and ema 50 for each stock<br>
 After read the EMAs, it compares today's ema4 and ema8 with yesterday's ema4 and ema8, if a cross happened, the stock will show up in the reuslt. <br>
 Same for ema 26 and ema 50<br>
 Note that it uses ema at market close, if today's market is not closed yet, it uses yesterday's data then compare with the day before yesterday.
+
+
+#To Install
+ Go to release, find the latest release then download and run main.exe
